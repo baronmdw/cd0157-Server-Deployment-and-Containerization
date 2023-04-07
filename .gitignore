@@ -17,6 +17,8 @@ _mailinglist
 docs/_build/
 __pycache__
 .env_file
+venv/
+examples/
 
 # Coverage reports
 htmlcov/
@@ -29,3 +31,4 @@ htmlcov/
 .direnv
 
 .github/**
+examples/Deploy_Flask_App/deployment.yml
